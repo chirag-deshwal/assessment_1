@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CapsuleQuiz" parent="Theme.MaterialComponents.Light.NoActionBar" />
+
+    <style name="TransparentBottomSheet" parent="Theme.Design.BottomSheetDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>

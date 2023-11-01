@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Notes on Blood Cells</title>
+</head>
+<body>
+    <h1>Blood Cells</h1>
+
+    <h2>Red Blood Cells (RBCs)</h2>
+    <p>Red blood cells, also known as erythrocytes, are the most abundant blood cells. They are responsible for carrying oxygen from the lungs to the body's tissues and returning carbon dioxide to the lungs for exhalation.</p>
+
+    <h2>White Blood Cells (WBCs)</h2>
+    <p>White blood cells, or leukocytes, are part of the immune system and help protect the body against infections. There are several types of white blood cells, including neutrophils, lymphocytes, monocytes, eosinophils, and basophils.</p>
+
+    <h2>Platelets</h2>
+    <p>Platelets, or thrombocytes, are small cell fragments that play a crucial role in blood clotting. They help stop bleeding by forming clots at the site of an injury to the blood vessel.</p>
+
+    <h2>Functions</h2>
+    <ul>
+        <li>Transport of oxygen and carbon dioxide (RBCs)</li>
+        <li>Immune response and defense against infections (WBCs)</li>
+        <li>Blood clotting and wound healing (Platelets)</li>
+    </ul>
+
+    <h2>Formation</h2>
+    <p>Blood cells are formed in the bone marrow through a process called hematopoiesis. They originate from stem cells and differentiate into the various types of blood cells.</p>
+
+    <h2>Life Cycle</h2>
+    <p>The lifespan of blood cells varies. Red blood cells typically live for about 120 days, while white blood cells can survive for a few hours to several days. Platelets have the shortest lifespan, lasting only about 8-9 days.</p>
+
+    <h2>Health and Diseases</h2>
+    <p>Imbalances in the number or function of blood cells can lead to various health conditions, including anemia (low RBC count), leukemia (abnormal WBCs), and bleeding disorders (impaired platelet function).</p>
+
+    <p>Understanding blood cells and their roles in the body is essential for maintaining overall health and diagnosing and treating various medical conditions.</p>
+</body>
+</html>

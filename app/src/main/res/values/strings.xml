@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Capsule Quiz</string>
+    <string name="nothing_is_here">"nothing_is_here :) "</string>
+    <string name="next_question">Next Question</string>
+    <string name="score_is">Score is</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="next_chapter">Next Chapter</string>
+</resources>
